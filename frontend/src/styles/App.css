@@ -1,0 +1,26 @@
+.app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .course-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .course-list li {
+    margin: 10px 0;
+  }
+  
+  /* Add more styles for ChapterList, ExerciseList, and other components */
+  
